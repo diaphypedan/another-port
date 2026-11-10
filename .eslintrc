@@ -28,3 +28,13 @@
       }
     ],
     "react/jsx-props-no-spreading": "off"
+  },
+  "globals": {
+    "React": "writable"
+  },
+  "parserOptions": {
+    "ecmaVersion": 2020,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    },
