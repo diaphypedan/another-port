@@ -38,3 +38,13 @@
     "ecmaFeatures": {
       "jsx": true
     },
+    "project": "./tsconfig.json"
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "env": {
+    "browser": true,
+    "amd": true,
